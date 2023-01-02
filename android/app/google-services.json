@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495440582595",
+    "project_id": "getawaygo-4f9f4",
+    "storage_bucket": "getawaygo-4f9f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495440582595:android:1451cc037036d42095cf76",
+        "android_client_info": {
+          "package_name": "com.example.travel_app_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495440582595-4gmr83jg03op93jiubqtgse4p9rbf06i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01wg-AW2BAKD8sBrHjltLdwn3caui5SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495440582595-4gmr83jg03op93jiubqtgse4p9rbf06i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
